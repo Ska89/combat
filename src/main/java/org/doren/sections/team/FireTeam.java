@@ -1,9 +1,8 @@
-package org.example.sections.team;
+package org.doren.sections.team;
 
 import lombok.Data;
-import org.example.sections.SectionTeam;
-import org.example.units.Leader;
-import org.example.units.Unit;
+import org.doren.sections.SectionTeam;
+import org.doren.units.Unit;
 
 @Data
 public class FireTeam extends SectionTeam implements Team{

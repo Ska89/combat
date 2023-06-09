@@ -1,4 +1,4 @@
-package org.example.sections.team;
+package org.doren.sections.team;
 
 public interface Team {
 }

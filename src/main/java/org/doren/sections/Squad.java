@@ -1,7 +1,7 @@
-package org.example.sections;
+package org.doren.sections;
 
-import org.example.sections.team.Team;
-import org.example.units.Unit;
+import org.doren.sections.team.Team;
+import org.doren.units.Unit;
 
 import java.util.List;
 

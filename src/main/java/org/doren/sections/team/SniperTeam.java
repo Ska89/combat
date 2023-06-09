@@ -1,9 +1,8 @@
-package org.example.sections.team;
+package org.doren.sections.team;
 
-import org.example.sections.SectionTeam;
-import org.example.units.Leader;
-import org.example.units.Shooter;
-import org.example.units.Unit;
+import org.doren.sections.SectionTeam;
+import org.doren.units.Leader;
+import org.doren.units.Unit;
 
 public class SniperTeam extends SectionTeam implements Team {
     private Leader shooter;

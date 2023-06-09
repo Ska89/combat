@@ -1,4 +1,4 @@
-package org.example.ranks;
+package org.doren.ranks;
 
 public enum AirForceRanks {
 }

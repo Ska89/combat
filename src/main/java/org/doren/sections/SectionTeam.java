@@ -1,6 +1,6 @@
-package org.example.sections;
+package org.doren.sections;
 
-import org.example.units.Unit;
+import org.doren.units.Unit;
 
 public abstract class SectionTeam {
     private Unit leader;

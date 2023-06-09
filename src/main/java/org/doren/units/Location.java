@@ -1,4 +1,4 @@
-package org.example.units;
+package org.doren.units;
 
 public interface Location {
     int getLatitude();

@@ -1,4 +1,4 @@
-package org.example.sections;
+package org.doren.sections;
 
 public class Division {
 }
